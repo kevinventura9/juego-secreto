@@ -1,1 +1,0 @@
-Juego: Adivina el numero
